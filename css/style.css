@@ -45,32 +45,363 @@ h3 {
 }
 
 /* Germany */
+#germany div {
+  height: 116px;
+  width: 800px;
+}
 
+#box3 {
+  background-color: black;
+}
+
+#box4 {
+  background-color: red;
+}
+
+#box5 {
+  background-color: yellow;
+}
 
 /* Lithuania */
+#lithuania div {
+  height: 116px;
+  width: 800px;
+}
 
+#box6 {
+  background-color: yellow;
+}
+
+#box7 {
+  background-color: green;
+}
+
+#box8 {
+  background-color: red;
+}
 /* Yemen */
+#yemen div {
+  height: 116px;
+  width: 800px;
+}
+
+#box9 {
+  background-color: black;
+}
+
+#box10 {
+  background-color: red;
+}
 
 /* The Gambia */
+#gambia div {
+  height: 116px;
+  width: 800px;
+}
 
-/* Yemen */
+#box11 {
+  background-color: red;
+}
 
-/* The Gambia */
+#gambia #box12 {
+  height: 86px;
+  background-color: blue;
+  border-top: 15px solid white;
+  border-bottom: 15px solid white;
+}
+
+#box13 {
+  background-color: green;
+}
 
 /* Chad */
+#chad div {
+  height: 348px;
+  width: 269px;
+  display: inline-block;
+  margin-right: -1%;
+}
+
+#box14 {
+  background-color: blue
+}
+
+#box15 {
+  background-color: yellow;
+}
+
+#box16 {
+  background-color: red;
+}
 
 /* France */
+#france div {
+  height: 348px;
+  width: 269px;
+  display: inline-block;
+}
+
+#box17 {
+  float: left;
+  background-color: red
+}
+
+#box18 {
+  float: right;
+  background-color: blue;
+}
 
 /* Benin */
+#benin div {  
+  height: 174px;
+  width: 531px;
+  display: inline;
+}
+
+#benin #box19 {
+  height: 348px;
+  width: 269px;
+  float: left;
+  background-color: green
+}
+
+#box20 {
+  float: right;
+  background-color: yellow;
+}
+
+#box21 {
+  float: right;
+  background-color: red;
+}
 
 /* UAE */
+#uae div {  
+  height: 116px;
+  width: 531px;
+  display: inline;
+}
+
+#uae #box22 {
+  height: 348px;
+  width: 269px;
+  float: left;
+  background-color: red
+}
+
+#box23 {
+  float: right;
+  background-color: green;
+}
+
+#box24 {
+  float: right;
+  background-color: white;
+}
+
+#box25 {
+  float: right;
+  background-color: black;
+}
 
 /* Denmark */
+#denmark #box26, #box27, #box28 {  
+  height: 116px;
+  width: 266.6px;
+  display: inline;
+}
+
+#box26 {
+  float: left;
+  background-color: red;
+}
+
+#box27 {
+  float: left;
+  width: 125px;
+  background-color: white;
+}
+
+#box28 {
+  width: 407px;
+  float: right;
+  background-color: red;
+}
+
+#box29 {
+  height: 125px;
+  width: 800px;
+  float: left;
+  background-color: white;
+}
 
 /* Norway */ 
+#norway #box30, #box32, #box34, #box36 {  
+  height: 116px;
+  width: 266.6px;
+  display: inline;
+}
+
+#box30 {
+  border-bottom: 15px solid white;
+  border-right: 15px solid white;
+  float: left;
+  background-color: red;
+}
+
+#box31 {
+  float: left;
+  width: 80px;
+  height: 137px;
+  background-color: blue;
+}
+
+#box32 {
+  border-bottom: 15px solid white;
+  border-left: 15px solid white;
+  width: 424.5px;
+  float: right;
+  background-color: red;
+}
+
+#box33 {
+  height: 75px;
+  width: 800px;
+  float: left;
+  background-color: blue;
+}
+
+#box34 {
+  border-top: 15px solid white;
+  border-right: 15px solid white;
+  float: left;
+  background-color: red;
+}
+
+#box35 {
+  float: left;
+  width: 75px;
+  height: 130px;
+  background-color: blue;
+}
+
+#box36 {
+  border-top: 15px solid white;
+  border-left: 15px solid white;
+  width: 424.5px;
+  float: left;
+  background-color: red;
+}
 
 /* Greece */
+#greece #cross #box37, #box38, #box39, #box40, #box41, #box42, #box43 {  
+  height: 40%;
+  width: 40%;
+}
 
+#cross {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-color: green;
+  display: block;
+}
 
+#short-stripes {
+  width: 600px;
+  height: 200px;
+  float: right;
+}
 
+#long-stripes {
+  width: 800px;
+  height: 200px;
+  float: left;
+}
 
+#box37 {
+  float: left;
+  background-color: blue;
+}
+
+#box38 {
+  height: 40%;
+  width: 20%;
+  float: left;
+  background-color: white;
+}
+
+#box39 {
+  float: left;
+  background-color: blue;
+}
+
+#box40 {
+  height: 20%;
+  width: 100%;
+  float: left;
+  background-color: white;
+}
+
+#box41 {
+  float: left;
+  background-color: blue;
+}
+
+#box42 {
+  height: 40%;
+  width: 20%;
+  float: left;
+  background-color: white;
+}
+
+#box43 {
+  float: left;
+  background-color: blue;
+}
+
+#short-stripes #box44, #box45, #box46, #box47, #box48 {
+  height: 20%;
+  width: 100%;
+}
+
+#box44 {
+  background-color: blue;
+}
+
+#box45 {
+  background-color: white;
+}
+
+#box46 {
+  background-color: blue;
+}
+
+#box47 {
+  background-color: white;
+}
+
+#box48 {
+  background-color: blue;
+}
+
+#long-stripes #box49, #box50, #box51, #box52 {
+  height: 17.6%;
+  width: 100%;
+}
+
+#box49 {
+  background-color: white;
+}
+
+#box50 {
+  background-color: blue;
+}
+
+#box51 {
+  background-color: white;
+}
+
+#box52 {
+  background-color: blue;
+}
